@@ -15,7 +15,6 @@ You can see screenshot's example at [example/app.js](example/app.js).
 ```javascript
 var TiCornerRadius = require('be.k0suke.ticornerradius');
 var view = Ti.UI.createView({
-	top: 100,
 	width: 80,
 	height: 80,
 	backgroundColor: '#000',
@@ -31,7 +30,7 @@ var view = Ti.UI.createView({
 
 ### Properties
 
-* cornerRadius.corners / CORNER_TOP_LEFT or CORNER_TOP_RIGHT or CORNER_BOTTOM_LEFT / CORNER_BOTTOM_RIGHT
+* cornerRadius.corners / CORNER_TOP_LEFT or CORNER_TOP_RIGHT or CORNER_BOTTOM_LEFT / CORNER_BOTTOM_RIGHT / CORNER_ALL_CORNERS
 * cornerRadius.radii.width / height
 
 ## License
