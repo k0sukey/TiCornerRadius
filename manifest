@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: TiCornerRadius
+moduleid: be.k0suke.ticornerradius
+guid: 272f1318-abf6-4c90-a6ef-ecba04a6d3df
+platform: iphone
+minsdk: 3.2.3.GA
