@@ -61,6 +61,20 @@
     maskLayer.frame = self.bounds;
     maskLayer.path = maskPath.CGPath;
     self.layer.mask = maskLayer;
+    
+    if ([props objectForKey:@"border"] != nil)
+    {
+        NSDictionary *border = [props objectForKey:@"border"];
+        
+        CAShapeLayer *borderLayer = [[CAShapeLayer alloc] init];
+        borderLayer.frame = self.bounds;
+        borderLayer.path = maskPath.CGPath;
+        borderLayer.fillColor = [UIColor clearColor].CGColor;
+        borderLayer.lineWidth = [TiUtils floatValue:[border objectForKey:@"width"] def:.0f];
+        TiColor *tiColor = [TiUtils colorValue:[border objectForKey:@"color"]];
+		borderLayer.strokeColor = [tiColor _color].CGColor;
+        [self.layer addSublayer:borderLayer];
+    }
 }
 
 -(void)setCornerRadius_:(id)args

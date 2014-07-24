@@ -6,7 +6,7 @@ Inspired by [iphone - how to set cornerRadius for only top-left and top-right co
 
 ## Install
 
-[Compiled module download](be.k0suke.ticornerradius-iphone-0.1.zip)
+[Compiled module download](be.k0suke.ticornerradius-iphone-0.2.zip)
 
 ## Usage
 
@@ -23,6 +23,10 @@ var view = Ti.UI.createView({
 		radii: {
 			width: 20,
 			height: 20
+		},
+		border: {
+			width: 1,
+			color: '#f00'
 		}
 	}
 });
@@ -32,6 +36,7 @@ var view = Ti.UI.createView({
 
 * cornerRadius.corners / CORNER_TOP_LEFT or CORNER_TOP_RIGHT or CORNER_BOTTOM_LEFT / CORNER_BOTTOM_RIGHT / CORNER_ALL_CORNERS
 * cornerRadius.radii.width / height
+* cornerRadius.border.width / color
 
 ## License
 

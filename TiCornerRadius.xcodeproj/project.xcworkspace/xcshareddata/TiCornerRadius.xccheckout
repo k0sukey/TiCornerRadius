@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C42FBB8-C0BF-4920-85D9-8E755CA5C435</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiCornerRadius</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7FF16E1C-BFA8-42A2-A1D8-D20E54EE57EA</key>
+		<string>ssh://github.com/rentzsch/jrswizzle.git</string>
+		<key>ECF04810-524D-417D-A855-B2D92D516F22</key>
+		<string>ssh://github.com/k0sukey/TiCornerRadius.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TiCornerRadius.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7FF16E1C-BFA8-42A2-A1D8-D20E54EE57EA</key>
+		<string>../../jrswizzle</string>
+		<key>ECF04810-524D-417D-A855-B2D92D516F22</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/k0sukey/TiCornerRadius.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECF04810-524D-417D-A855-B2D92D516F22</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7FF16E1C-BFA8-42A2-A1D8-D20E54EE57EA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jrswizzle</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECF04810-524D-417D-A855-B2D92D516F22</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiCornerRadius</string>
+		</dict>
+	</array>
+</dict>
+</plist>

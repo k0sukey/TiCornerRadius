@@ -20,6 +20,10 @@ view0.add(Ti.UI.createView({
 		radii: {
 			width: 20,
 			height: 20
+		},
+		border: {
+			width: 2,
+			color: '#000'
 		}
 	}
 }));
