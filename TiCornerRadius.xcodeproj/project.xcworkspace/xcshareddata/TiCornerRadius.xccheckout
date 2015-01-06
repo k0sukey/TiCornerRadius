@@ -10,33 +10,33 @@
 	<string>TiCornerRadius</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7D61AC9B7C14E87B5CE56C5A91B29416C0B546EE</key>
-		<string>https://github.com/FokkeZB/TiCornerRadius.git</string>
-		<key>8A15A8EA0B3D0B497C4883425BC74DF995224BB3</key>
-		<string>github.com:rentzsch/jrswizzle.git</string>
+		<key>7FF16E1C-BFA8-42A2-A1D8-D20E54EE57EA</key>
+		<string>ssh://github.com/rentzsch/jrswizzle.git</string>
+		<key>ECF04810-524D-417D-A855-B2D92D516F22</key>
+		<string>ssh://github.com/k0sukey/TiCornerRadius.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TiCornerRadius.xcodeproj</string>
+	<string>TiCornerRadius.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7D61AC9B7C14E87B5CE56C5A91B29416C0B546EE</key>
+		<key>7FF16E1C-BFA8-42A2-A1D8-D20E54EE57EA</key>
+		<string>../../jrswizzle</string>
+		<key>ECF04810-524D-417D-A855-B2D92D516F22</key>
 		<string>../..</string>
-		<key>8A15A8EA0B3D0B497C4883425BC74DF995224BB3</key>
-		<string>../..jrswizzle/</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/FokkeZB/TiCornerRadius.git</string>
+	<string>ssh://github.com/k0sukey/TiCornerRadius.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>111</integer>
+	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7D61AC9B7C14E87B5CE56C5A91B29416C0B546EE</string>
+	<string>ECF04810-524D-417D-A855-B2D92D516F22</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8A15A8EA0B3D0B497C4883425BC74DF995224BB3</string>
+			<string>7FF16E1C-BFA8-42A2-A1D8-D20E54EE57EA</string>
 			<key>IDESourceControlWCCName</key>
 			<string>jrswizzle</string>
 		</dict>
@@ -44,7 +44,7 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7D61AC9B7C14E87B5CE56C5A91B29416C0B546EE</string>
+			<string>ECF04810-524D-417D-A855-B2D92D516F22</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TiCornerRadius</string>
 		</dict>
