@@ -6,7 +6,7 @@ Inspired by [iphone - how to set cornerRadius for only top-left and top-right co
 
 ## Install
 
-[Compiled module download](be.k0suke.ticornerradius-iphone-0.2.zip)
+[Compiled module download](be.k0suke.ticornerradius-iphone-0.3.zip)
 
 ## Usage
 
